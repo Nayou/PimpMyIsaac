@@ -28,9 +28,15 @@ body {
     overflow: hidden;
 }
 
-.img-creature img {
+/*.img-creature img {
     height: 100%;
     width: auto;
+}*/
+
+.img-position {
+    position: relative;
+    top: -50%;
+    left: -50%; 
 }
 
 .div-creature {
